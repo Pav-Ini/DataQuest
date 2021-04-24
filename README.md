@@ -3,7 +3,8 @@
 This repository contains all the projects - guided and semi-guided - that are part of the [Dataquest.io](https://dataquest.io) learning platform. I'm adding new Jupyter Notebooks as I'm learning. I'm always happy to hear feedback on how to get better 🙏
 
 
-![Sedmikrasky!](https://gfycat.com/limitedminiatureafricangoldencat "Sedmikrasky")
+![Sedmikrasky!](https://gfycat.com/limitedminiatureafricangoldencat)
+
 
 - [Project no. 1](https://github.com/Pav-Ini/DataQuest/tree/main/01%20Profitable%20Apps) 
   - using basic Python to analyze apps on the two most popular mobile apps stores
