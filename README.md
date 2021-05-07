@@ -20,3 +20,8 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - working with pandas
   - project is analyzing German eBay site selling cars
   - guided project
+- [Project no. 5](https://github.com/Pav-Ini/DataQuest/blob/main/05%20Wesbound%20traffic%20I-94/i_94_traffic.ipynb)
+  - working with mathplotlib for the first time 📊
+  - analyzing wesbound traffic on I-94
+  - analyzing the rush hour and weather condiditons that might play role in heavy traffic
+  - guided project
