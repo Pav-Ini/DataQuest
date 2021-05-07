@@ -16,3 +16,7 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - using pandas for the first time 🐼
   - project analyzing dataset containing aroun 1300 rows of laptops with it's parameters
   - semi-guided project
+- [Project no. 4](https://github.com/Pav-Ini/DataQuest/blob/main/04%20eBay%20Car%20Sales/ebay.ipynb)
+  - working with pandas
+  - project is analyzing German eBay site selling cars
+  - guided project
