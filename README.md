@@ -21,7 +21,12 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - project is analyzing German eBay site selling cars
   - guided project
 - [Project no. 5](https://github.com/Pav-Ini/DataQuest/blob/main/05%20Wesbound%20traffic%20I-94/i_94_traffic.ipynb)
-  - working with mathplotlib for the first time 📊
+  - working with matplotlib for the first time 📊
   - analyzing wesbound traffic on I-94
   - analyzing the rush hour and weather condiditons that might play role in heavy traffic
+  - using corelations
   - guided project
+- [Project no.6](https://github.com/Pav-Ini/DataQuest/blob/main/06%20Euro%20Rates/euro_rates.ipynb)
+  - working with matplotlib object oriented interface for construing charts
+  - project analyzing the EUR exchange rates
+  - guided project with one of my own charts
