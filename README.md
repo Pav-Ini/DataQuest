@@ -30,7 +30,11 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - working with matplotlib object oriented interface for construing charts
   - project analyzing the EUR exchange rates
   - guided project with one of my own charts
--[Project no. 7](https://github.com/Pav-Ini/DataQuest/blob/main/07%20Employee%20exit%20survey/employee_survey.ipynb)
+- [Project no. 7](https://github.com/Pav-Ini/DataQuest/blob/main/07%20Employee%20exit%20survey/employee_survey.ipynb)
   - project analyzing employee’s exit forms
   - focused on data cleaning & merging
+  - guided project with my own analysis as well
+- [Project no. 8](https://github.com/Pav-Ini/DataQuest/blob/main/08%20NYC%20SAT%20Results/nyc_sat.ipynb)
+  - project analyzing SAT results among NYC highschools
+  - focusing on data cleaning & data combining with some basic statistics
   - guided project with my own analysis as well
