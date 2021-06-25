@@ -38,3 +38,7 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - project analyzing SAT results among NYC highschools
   - focusing on data cleaning & data combining with some basic statistics
   - guided project with my own analysis as well
+- [Project no. 9](https://github.com/Pav-Ini/DataQuest/blob/main/09%20Star%20Wars%20Survey/starwars.ipynb)
+  - project analyzing survey responses about the Star Wars movie franchize
+  - what films are better? the original trilogy or the new ones?
+  - may the data be with you
