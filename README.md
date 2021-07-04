@@ -42,3 +42,7 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - project analyzing survey responses about the Star Wars movie franchize
   - what films are better? the original trilogy or the new ones?
   - may the data be with you
+- [Project no. 10](https://github.com/Pav-Ini/DataQuest/blob/main/10%20CIA%20Factbook/cia_fb.ipynb)
+  - using SQL for the first time in project
+  - analyzing CIA Factbook data about the world countries
+  - simple summary statisctics
