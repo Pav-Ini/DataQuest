@@ -46,3 +46,6 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - using SQL for the first time in project
   - analyzing CIA Factbook data about the world countries
   - simple summary statisctics
+- [Project no. 11](https://github.com/Pav-Ini/DataQuest/blob/main/11%20Chinook%20Business%20Questions/chinook.ipynb)
+  - using more complex SQL
+  - analyzing data from the fictinal Chinook database - music store similar to iTunes
