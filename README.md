@@ -49,6 +49,6 @@ This repository contains all the projects - guided and semi-guided - that are pa
 - [Project no. 11](https://github.com/Pav-Ini/DataQuest/blob/main/11%20Chinook%20Business%20Questions/chinook.ipynb)
   - using more complex SQL
   - analyzing data from the fictinal Chinook database - music store similar to iTunes
--[Project no. 12](https://github.com/Pav-Ini/DataQuest/blob/main/12%20Popular%20Data%20Science%20Questions/popular_questions.ipynb)
+- [Project no. 12](https://github.com/Pav-Ini/DataQuest/blob/main/12%20Popular%20Data%20Science%20Questions/popular_questions.ipynb)
   - analyzing data from the Data Science Stack Exchange
   - using bits of SQL, Pandas, Matplotlib
