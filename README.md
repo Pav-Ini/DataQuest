@@ -42,13 +42,17 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - project analyzing survey responses about the Star Wars movie franchize
   - what films are better? the original trilogy or the new ones?
   - may the data be with you
+  - guided project
 - [Project no. 10](https://github.com/Pav-Ini/DataQuest/blob/main/10%20CIA%20Factbook/cia_fb.ipynb)
   - using SQL for the first time in project
   - analyzing CIA Factbook data about the world countries
   - simple summary statisctics
+  - guided project
 - [Project no. 11](https://github.com/Pav-Ini/DataQuest/blob/main/11%20Chinook%20Business%20Questions/chinook.ipynb)
   - using more complex SQL
   - analyzing data from the fictinal Chinook database - music store similar to iTunes
+  - guided project
 - [Project no. 12](https://github.com/Pav-Ini/DataQuest/blob/main/12%20Popular%20Data%20Science%20Questions/popular_questions.ipynb)
   - analyzing data from the Data Science Stack Exchange
   - using bits of SQL, Pandas, Matplotlib
+  - guided project
