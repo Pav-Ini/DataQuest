@@ -56,3 +56,6 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - analyzing data from the Data Science Stack Exchange
   - using bits of SQL, Pandas, Matplotlib
   - guided project
+- [Project no. 13](https://github.com/Pav-Ini/DataQuest/blob/main/13%20Fandago/fandago.ipynb)
+  - analyzing web scraped data from the movie fating site Fandango
+  - guided project
