@@ -59,3 +59,8 @@ This repository contains all the projects - guided and semi-guided - that are pa
 - [Project no. 13](https://github.com/Pav-Ini/DataQuest/blob/main/13%20Fandago/fandago.ipynb)
   - analyzing web scraped data from the movie fating site Fandango
   - guided project
+– [Project no. 14](https://github.com/Pav-Ini/DataQuest/blob/main/14%20Markets%20to%20Advertise/markets.ipynb)
+  - analyzing survey to determine on what markets advertise e-learning platform
+  - Pandas, Matplotlib
+  - cleaning the outliers
+  - guided project
