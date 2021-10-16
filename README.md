@@ -64,3 +64,6 @@ This repository contains all the projects - guided and semi-guided - that are pa
   - Pandas, Matplotlib
   - cleaning the outliers
   - guided project
+- [Project no. 15](https://github.com/Pav-Ini/DataQuest/blob/main/15%20Mobile%20App%20for%20Lottery%20Addiction/mobile_app_lottery.ipynb)
+  - working with probabilities and combinations to determine chances of winning lotery
+  - quided project
