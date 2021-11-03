@@ -67,3 +67,6 @@ This repository contains all the projects - guided and semi-guided - that are pa
 - [Project no. 15](https://github.com/Pav-Ini/DataQuest/blob/main/15%20Mobile%20App%20for%20Lottery%20Addiction/mobile_app_lottery.ipynb)
   - working with probabilities and combinations to determine chances of winning lotery
   - quided project
+- [Project no. 16](https://github.com/Pav-Ini/DataQuest/blob/main/16%20Spam%20Filter/spam_filter.ipynb)
+  - programming SMS spam filter
+  - using Naive Bayes theorem
