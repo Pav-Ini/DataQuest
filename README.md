@@ -70,3 +70,8 @@ This repository contains all the projects - guided and semi-guided - that are pa
 - [Project no. 16](https://github.com/Pav-Ini/DataQuest/blob/main/16%20Spam%20Filter/spam_filter.ipynb)
   - programming SMS spam filter
   - using Naive Bayes theorem
+  - guided project
+- [Project no. 17](https://github.com/Pav-Ini/DataQuest/blob/main/17%20Winning%20Jeopardy/winning_jeopardy.ipynb)
+  - what are the odds of winning jeopardy when studying selected topics?
+  - using Chi-squared test and p-value
+  - guided project
